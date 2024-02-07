@@ -18,7 +18,7 @@ H	201909091523_ADMINWEBUSAGEACTIVITY.TXT	35	2019-09-09T15:23:23.626-05:00	2019-0
 338208	https://sandbox-admin.corepro.io/reports/other	2018-02-08T22:09:07.294+00:00	1234	TestProgram	user1@email.com
 338208	https://sandbox-admin.corepro.io/reports/GenerateReport	2018-02-08T23:45:02.625+00:00	1234	TestProgram	user1@email.com
 338208	https://sandbox-admin.corepro.io/Dashboard?CPSID=aaa09a3a-c455-4167-bf36-2f63c580b0e1	2018-02-08T23:45:39.438+00:00	1234	TestProgram	user1@email.com
-434512	https://sandbox-admin.corepro.io/Dashboard/Landing?CPSID=a0f75b25-5f71-40c7-ad7c-4df0a220a179	2018-04-06T20:52:53.311+00:00	1234	TestProgram	user2@email.com	This is extra text after the defined set of fields.  Your processing should ignore this and continue without error.	This field should also not cause issues.
+434512	https://sandbox-admin.corepro.io/Dashboard/Landing?CPSID=a0f75b25-5f71-40c7-ad7c-4df0a220a179	2018-04-06T20:52:53.311+00:00	1234	TestProgram	user2@email.com
 434512	https://sandbox-admin.corepro.io/Base/ChangeBank?bank=212	2018-04-06T20:53:26.639+00:00	1234	TestProgram	user2@email.com
 434512	https://sandbox-admin.corepro.io/Dashboard?CPSID=ecf4efd4-bbd9-46cb-accf-857ec7a4498c	2018-04-06T20:53:26.686+00:00	1234	TestProgram	user2@email.com
 434512	https://sandbox-admin.corepro.io/Base/ChangeClient?client=9022	2018-04-06T20:53:42.826+00:00	1234	TestProgram	user2@email.com

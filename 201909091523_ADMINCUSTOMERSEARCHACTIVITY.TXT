@@ -15,7 +15,7 @@ H	201909091523_ADMINCUSTOMERSEARCHACTIVITY.TXT	45	2019-09-09T15:23:22.427-05:00	
 445415					a35@n.io								2018-05-23T20:38:44.865+00:00	1234	TestProgram
 445415					a35@n.io								2018-05-23T20:45:02.500+00:00	1234	TestProgram
 445415					12@tom.my								2018-05-23T20:58:11.594+00:00	1234	TestProgram
-445415					51@tom.my								2018-05-23T22:58:31.563+00:00	1234	TestProgram	This is extra text after the defined set of fields.  Your processing should ignore this and continue without error.	This field should also not cause issues.
+445415					51@tom.my								2018-05-23T22:58:31.563+00:00	1234	TestProgram
 445415					50@tom.my								2018-05-24T16:35:44.822+00:00	1234	TestProgram
 443636									19115d30-1769-4be4-9f3f-7200407011c3.spend				2018-05-24T19:35:57.503+00:00	1234	TestProgram
 443636	laurene												2018-05-24T21:03:44.954+00:00	1234	TestProgram
